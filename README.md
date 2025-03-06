@@ -1,0 +1,1 @@
+Este artigo, a respeito do funcionamento do mecanismo de garbage collection da linguagem Ruby, foi desenvolvido na disciplina de Modelos de Linguagem de Programação, da Universidade Federal do Rio Grande do Sul.
